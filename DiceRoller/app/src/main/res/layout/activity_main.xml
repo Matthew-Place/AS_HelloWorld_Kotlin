@@ -23,4 +23,11 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/roll_button_text" />
 
+    <Button
+        android:id="@+id/count_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/count_button_text" />
+
 </LinearLayout>
