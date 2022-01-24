@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">My Dice Roller</string>
+    <string name="main_text">Work in progress…</string>
 </resources>
