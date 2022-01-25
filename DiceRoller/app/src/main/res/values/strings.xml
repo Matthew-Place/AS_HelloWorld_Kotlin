@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">DiceRoller</string>
-    <string name="header_text">Roll a %d sided dice</string>
+    <string name="header_roll_text">Roll a %d sided dice</string>
+    <string name="header_flip_text">Flip a coin</string>
     <string name="result_text">1</string>
     <string name="roll_button_text">Roll</string>
+    <string name="flip_button_text">Flip</string>
     <string name="count_button_text">Count</string>
     <string name="decrease_button_text">-</string>
     <string name="increase_button_text">+</string>
+    <string name="heads_text">Heads</string>
+    <string name="tails_text">Tails</string>
+
 </resources>
